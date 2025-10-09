@@ -301,7 +301,6 @@ header.sticky{
 .newsletter{
 	display: flex;
 	flex-wrap: wrap;
-	
 	justify-content: space-between;
 	background: url(../img/background.jpg);
 	background-size: cover;
@@ -313,6 +312,7 @@ header.sticky{
 	margin-bottom: 5px;
 }
 .news-text p{
+	padding-top: 100px;
 	font-size: var(--p-font);
 	color: var(--second-color);
 	line-height: 30px;
